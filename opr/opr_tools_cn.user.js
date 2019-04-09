@@ -148,7 +148,10 @@ if (typeof cloneInto !== "function") {
 }
 
 function addGlobalStyle(css) {
-    GM_addStyle(css);
+    var style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = css;
+    document.head.appendChild(style);
 
     addGlobalStyle = () => {
     }; // noop after first run
