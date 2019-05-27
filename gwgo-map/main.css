@@ -1,0 +1,105 @@
+._1TuSd9ca8LTwjaaXuJchsv {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto; }
+
+._3Cgdh4CyH0MtaaJh2K1yG3 {
+  width: 2.75rem;
+  height: 2.75rem;
+  border: 0.125rem solid rgba(0, 0, 0, 0.2);
+  background-clip: padding-box;
+  background: #fff;
+  border-radius: 0.3125rem; }
+  ._3Cgdh4CyH0MtaaJh2K1yG3 a {
+    background-size: 1.625rem 1.625rem; }
+
+._27i5z9pD6h-Yog-UWHG1Qd {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.4);
+  width: 100vw;
+  height: 100vh;
+  z-index: 1000;
+  justify-content: center;
+  align-items: center; }
+
+._2KZSVqOzZwSMsqprigeHHI {
+  width: 72%;
+  height: 72%;
+  background: rgba(252, 252, 252, 0.9);
+  border-radius: 0.75rem;
+  -webkit-backdrop-filter: blur(0.625rem);
+          backdrop-filter: blur(0.625rem);
+  overflow: auto;
+  display: flex;
+  flex-direction: column; }
+  ._2KZSVqOzZwSMsqprigeHHI header {
+    position: relative;
+    min-height: 1.875rem;
+    flex-grow: 0;
+    flex-shrink: 0; }
+    ._2KZSVqOzZwSMsqprigeHHI header .hg7EG_Psx6ws5S4dEFphS {
+      text-align: center; }
+    ._2KZSVqOzZwSMsqprigeHHI header ._3p7nE32zHMS5mOCegsvUA9 {
+      position: absolute;
+      right: 0;
+      top: 0;
+      height: 100%; }
+      ._2KZSVqOzZwSMsqprigeHHI header ._3p7nE32zHMS5mOCegsvUA9:after {
+        content: "";
+        display: block;
+        padding-bottom: 100%;
+        /* ratio of 1:1*/ }
+      ._2KZSVqOzZwSMsqprigeHHI header ._3p7nE32zHMS5mOCegsvUA9 p {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        text-align: center; }
+  ._2KZSVqOzZwSMsqprigeHHI ._3e19GaxMn-GWfIEcEE5suo {
+    flex-grow: 1;
+    flex-shrink: 1;
+    position: relative;
+    /* need this to position inner content */
+    overflow-y: auto; }
+  ._2KZSVqOzZwSMsqprigeHHI footer {
+    flex-grow: 0;
+    flex-shrink: 0; }
+
+._1PR5PwppyVFtlcyq8qXEt4 {
+  display: flex;
+  align-items: center;
+  overflow: auto;
+  width: 100%;
+  height: 4rem;
+  border-bottom-style: solid;
+  border-width: 0.0625rem; }
+  ._1PR5PwppyVFtlcyq8qXEt4 ._2GtCHyHUrGSIroPHuvHgUR {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border-width: 0.125rem;
+    border-color: #000000;
+    border-style: solid; }
+  ._1PR5PwppyVFtlcyq8qXEt4 ._1P-HsCz8KsaOsux3UJmWQP {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    flex-grow: 1; }
+  ._1PR5PwppyVFtlcyq8qXEt4 ._1NXjTJGMgw5uoSWCVEvJeD {
+    padding-right: 0.5em; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
