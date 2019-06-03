@@ -15,10 +15,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "a02ad9dd03c4f4f0ab89c9430618dd9a.png"
   },
   {
-    "revision": "720077d25cf2f3a70c85",
-    "url": "bundle.min.js"
-  },
-  {
     "url": "f53a7ebb48267b2debc18746ccbb875c.png"
   },
   {
@@ -26,12 +22,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "6a659e44719a9365c2ba29dd52e53e40",
+    "revision": "40431210be811d6833e9e9f6332f6d81",
     "url": "index.html"
   },
   {
-    "revision": "720077d25cf2f3a70c85",
+    "revision": "ee6945d266b0043c6f11",
     "url": "main.css"
+  },
+  {
+    "revision": "ee6945d266b0043c6f11",
+    "url": "main.min.js"
   },
   {
     "revision": "04498ff7a1d6c6456ea66fa1156c7a33",
@@ -48,5 +48,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec558598cdc432253ad64e6b25888bfa",
     "url": "radar-512.png"
+  },
+  {
+    "revision": "592dae41645705f86d2a",
+    "url": "vendors~main.min.js"
   }
 ]);
