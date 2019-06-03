@@ -65,6 +65,7 @@
   -webkit-backdrop-filter: blur(0.625rem);
           backdrop-filter: blur(0.625rem);
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
   display: flex;
   flex-direction: column; }
   ._2KZSVqOzZwSMsqprigeHHI header {
