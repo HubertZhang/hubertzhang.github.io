@@ -26,11 +26,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "index.html"
   },
   {
-    "revision": "acebfd63fa6f1843991e",
+    "revision": "e82506fd9052b5ba08cc",
     "url": "main.css"
   },
   {
-    "revision": "acebfd63fa6f1843991e",
+    "revision": "e82506fd9052b5ba08cc",
     "url": "main.min.js"
   },
   {
@@ -50,11 +50,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "radar-512.png"
   },
   {
-    "revision": "82cecfba1c180013ddea",
+    "revision": "12fea309d889e302e1e9",
     "url": "vendors~main.css"
   },
   {
-    "revision": "82cecfba1c180013ddea",
+    "revision": "12fea309d889e302e1e9",
     "url": "vendors~main.min.js"
   }
 ]);
